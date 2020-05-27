@@ -1,6 +1,6 @@
 {
   "name": "visual-scene-echarts",
-  "version": "0.1.2",
+  "version": "0.1.4",
   "description": "A chart component base on Echarts, more frindly",
   "scripts": {
     "prepublish": ". ./.scripts/prepublish.sh",
@@ -14,7 +14,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/zongUMR/VisualScene"
+    "url": "https://github.com/zongUMR/VisualSceneEcharts"
   },
   "keywords": [
     "react",
@@ -26,9 +26,9 @@
   "license": "MIT",
   "author": "Meng Zong (https://github.com/zongUMR)",
   "bugs": {
-    "url": "https://github.com/zongUMR/VisualScene/issues"
+    "url": "https://github.com/zongUMR/VisualSceneEcharts/issues"
   },
-  "homepage": "https://github.com/zongUMR/VisualScene",
+  "homepage": "https://github.com/zongUMR/VisualSceneEcharts",
   "devDependencies": {
     "react": "^15.0.0",
     "react-dom": "^15.0.0",

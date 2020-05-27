@@ -5,11 +5,12 @@ Echarts component for React
 For details about how to use echarts. Please refer to [Echarts homepage](https://echarts.apache.org/en/index.html)
 
 Types of charts supported/examples: [Echart examples](https://echarts.apache.org/examples/en/index.html)
+[NPM homepage](https://www.npmjs.com/package/visual-scene-echarts)
 
 ## Installation
 
 ```bash
-npm install --save VisualSceneEcharts
+npm install --save visual-scene-echarts
 ```
 
 ## Usage
