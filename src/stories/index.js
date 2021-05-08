@@ -1,8 +1,8 @@
 import { storiesOf } from '@kadira/storybook';
 
-import SimpleBarChart from './SimpleBarChart';
+import ProfileChart from './ProfileChart';
 import HeightChangeChart from './HeightChangeChart';
 
 storiesOf('React Echarts', module)
-  .add('simple bar chart', SimpleBarChart)
-  .add('height change chart', HeightChangeChart);
+  .add('Custom chart type', ProfileChart)
+  .add('Complex profile chart', HeightChangeChart);
